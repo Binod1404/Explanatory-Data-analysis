@@ -14,3 +14,7 @@ Mandatory Task:
 8. Visualize Restaurant VS Rate.
 9. Compare the outliers.
 10.Conclude your dataset with your assumptions.
+
+
+The link for the given dataset is given below
+https://drive.google.com/drive/folders/1U1fDnu-vucFXx61picAOi0-dfdp5LASU?usp=share_link
